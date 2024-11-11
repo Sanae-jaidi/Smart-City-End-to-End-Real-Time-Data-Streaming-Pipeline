@@ -8,8 +8,6 @@ This project establishes a fully operational real-time data streaming pipeline t
 
 ![System Architecture](https://github.com/user-attachments/assets/4f1c54b5-732d-4482-a154-6478d17b070d)
 
-<img width="1255" alt="System Architecture" src="https://github.com/user-attachments/assets/7baa5860-9b2b-48f7-b3f2-919c65144bfa">
-
 ## Key Technologies
 
 - **IoT Devices**: Collects live data from the environment.
