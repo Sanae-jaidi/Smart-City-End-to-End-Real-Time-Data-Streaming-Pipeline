@@ -1,5 +1,7 @@
 # Smart-City-End-to-End-Real-Time-Data-Streaming-Pipeline
 
+[Sheet_1_2024-11-14T14_18_27.pdf](https://github.com/user-attachments/files/17749953/Sheet_1_2024-11-14T14_18_27.pdf)
+
 ## Project Overview
 
 This project establishes a fully operational real-time data streaming pipeline tailored for Smart City applications. It captures and processes data from a vehicle journey between London and Birmingham, including metrics like vehicle performance, GPS locations, emergency events, weather conditions, and camera footage. Utilizing IoT devices, Apache Kafka, Apache Spark, Docker, and AWS services, this pipeline provides robust data ingestion, processing, storage, and visualization.
