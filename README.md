@@ -1,6 +1,6 @@
 # Smart-City-End-to-End-Real-Time-Data-Streaming-Pipeline
 
-[Sheet_1_2024-11-14T14_18_27.pdf](https://github.com/user-attachments/files/17749953/Sheet_1_2024-11-14T14_18_27.pdf)
+![Analysis-1](https://github.com/user-attachments/assets/a762594c-92e1-4dee-a0bd-0db682546b05)
 
 ## Project Overview
 
