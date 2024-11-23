@@ -13,7 +13,7 @@ This project establishes a fully operational real-time data streaming pipeline t
 ## Key Technologies
 
 - **IoT Devices**: Collects live data from the environment.
-- **Apache Zookeeper**: anages Kafka brokers for reliable data coordination.
+- **Apache Zookeeper**: Manages Kafka brokers for reliable data coordination.
 - **Apache Kafka**: Ingests and streams real-time data to various topics.
 - **Apache Spark**: Processes and streams data in real-time.
 - **Docker**: Facilitates containerized setup for Kafka and Spark.
